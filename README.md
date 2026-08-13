@@ -1,6 +1,9 @@
 # Summary
 
-> [!WARNING] Experiment 👨‍🔬
+> [!WARNING]
+>
+> Experiment 👨‍🔬
+>
 > This write-up is an active work in progress. This is the public write-up for a private repository, so some of the content is intentionally vague or incomplete. If you have questions, please reach out to me directly.
 
 It is the age of the LLM, and the thing I struggle with most, also happens to be something LLMs struggle with too -> `context management`.
