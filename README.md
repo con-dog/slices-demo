@@ -42,3 +42,7 @@ The architecture that falls out of this, and the conventional wisdoms it attacks
   - The _Pool_ is effectively the kernel responsible for broadcasting and receiving events to / from slices.
   - The _Slices_ are self contained features that emit or consume _Facts_
   - _Facts_ are events that have happened, which contain a causality tag and a payload. So you can ask "why did X happen" and walk the fact tree.
+
+|                                              |                                                     |
+| -------------------------------------------- | --------------------------------------------------- |
+| ![](./media/slices-short-small-invaders.png) | ![](./media/slices-short-small-invaders-visual.png) |
