@@ -11,10 +11,11 @@ It is the age of the LLM, and the thing I struggle with most, also happens to be
 | Conways Game of Life (Slice)                                            | Slice Visualizer (Also a Slice)                              |
 | ----------------------------------------------------------------------- | ------------------------------------------------------------ |
 | ![conways game of life example](./media/slices-short-small-conways.png) | ![slices and pool](./media/slices-short-small-silo-pool.png) |
+| ![](./media/slices-short-small-invaders.png)                            | ![](./media/slices-short-small-invaders-visual.png)          |
 
 My biggest gripe in software is how "best practice" is to split everything up into different files, different classes, across different folders and projects. I understand _why_ we do this.
 
-But for someone who struggle with context switching, it is difficult to hold enitrely in memory a single feature across a massive file system abstraction.
+But for someone who struggles with context switching, it is difficult to hold in memory a single feature across a massive file system abstraction.
 
 This experiment asks this question:
 
@@ -43,6 +44,18 @@ The architecture that falls out of this, and the conventional wisdoms it attacks
   - The _Slices_ are self contained features that emit or consume _Facts_
   - _Facts_ are events that have happened, which contain a causality tag and a payload. So you can ask "why did X happen" and walk the fact tree.
 
-|                                              |                                                     |
-| -------------------------------------------- | --------------------------------------------------- |
-| ![](./media/slices-short-small-invaders.png) | ![](./media/slices-short-small-invaders-visual.png) |
+# Slice IDE - An Experiment in DogFooding
+
+An IDE / editor, built fully on the slices idea, dogfooding the idea - as it were - whilst also being a self-editing editor.
+
+Result - cool, but mostly a pain in the arse to work with. The editor can brick itself. Maybe there is something there, but probably not. BYO API-Key so an LLM can add / remove slices at will (Add game panels, sound panels, remove panels etc)
+
+![](./media/image%20copy%202.png)
+
+![](./media/ide-with-todo.png)
+
+![](./media/image%20copy.png)
+
+![](./media/image.png)
+
+![](./media/)
