@@ -50,6 +50,8 @@ An IDE / editor, built fully on the slices idea, dogfooding the idea - as it wer
 
 Result - cool, but mostly a pain in the arse to work with. The editor can brick itself. Maybe there is something there, but probably not. BYO API-Key so an LLM can add / remove slices at will (Add game panels, sound panels, remove panels etc)
 
+![](./media/hex-editor.png)
+
 ![](./media/image%20copy%202.png)
 
 ![](./media/ide-with-todo.png)
