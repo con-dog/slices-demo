@@ -1,0 +1,382 @@
+[
+  {
+    "file": "01-invaders-wave1-autopilot+player-state-t025.gif.png",
+    "mb": 1.42709,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.43888,
+    "from": 25,
+    "wave": 1,
+    "hits": 14,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 21.8,
+    "cards": [
+      "autopilot",
+      "player-state"
+    ]
+  },
+  {
+    "file": "02-invaders-wave1-score-state+game-state-t047.gif.png",
+    "mb": 1.248382,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.470879,
+    "from": 47,
+    "wave": 1,
+    "hits": 9,
+    "lost": 3,
+    "cleared": 0,
+    "rating": 18.3,
+    "cards": [
+      "score-state",
+      "game-state"
+    ]
+  },
+  {
+    "file": "03-invaders-wave1-armory+ballistics-t074.gif.png",
+    "mb": 1.468832,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.454628,
+    "from": 74,
+    "wave": 1,
+    "hits": 15,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 21.8,
+    "cards": [
+      "armory",
+      "ballistics"
+    ]
+  },
+  {
+    "file": "04-invaders-wave1-autopilot+player-state-t088.gif.png",
+    "mb": 1.46919,
+    "width": 1120,
+    "height": 630,
+    "lossy": 40,
+    "seconds": 10,
+    "mp4Mb": 0.42211,
+    "from": 88,
+    "wave": 1,
+    "hits": 16,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "autopilot",
+      "player-state"
+    ]
+  },
+  {
+    "file": "05-invaders-wave1-bombardier+invader-state-t106.gif.png",
+    "mb": 1.499189,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.46507,
+    "from": 106,
+    "wave": 1,
+    "hits": 14,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 21.8,
+    "cards": [
+      "bombardier",
+      "invader-state"
+    ]
+  },
+  {
+    "file": "06-invaders-wave1-barrier-state+collision-t117.gif.png",
+    "mb": 1.336617,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.492861,
+    "from": 117,
+    "wave": 1,
+    "hits": 16,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "barrier-state",
+      "collision"
+    ]
+  },
+  {
+    "file": "07-invaders-wave1-autopilot+player-state-t143.gif.png",
+    "mb": 1.39124,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.466867,
+    "from": 143,
+    "wave": 1,
+    "hits": 14,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 21.8,
+    "cards": [
+      "autopilot",
+      "player-state"
+    ]
+  },
+  {
+    "file": "08-invaders-wave1-score-state+game-state-t192.gif.png",
+    "mb": 1.122519,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.451535,
+    "from": 192,
+    "wave": 1,
+    "hits": 13,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 20.6,
+    "cards": [
+      "score-state",
+      "game-state"
+    ]
+  },
+  {
+    "file": "09-invaders-wave1-armory+ballistics-t225.gif.png",
+    "mb": 1.494842,
+    "width": 1120,
+    "height": 630,
+    "lossy": 40,
+    "seconds": 10,
+    "mp4Mb": 0.462749,
+    "from": 225,
+    "wave": 1,
+    "hits": 18,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "armory",
+      "ballistics"
+    ]
+  },
+  {
+    "file": "10-invaders-wave1-march-clock+keyboard-t278.gif.png",
+    "mb": 1.386956,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.408559,
+    "from": 278,
+    "wave": 1,
+    "hits": 16,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "march-clock",
+      "keyboard"
+    ]
+  },
+  {
+    "file": "11-invaders-wave1-bombardier+invader-state-t289.gif.png",
+    "mb": 1.399535,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.443361,
+    "from": 289,
+    "wave": 1,
+    "hits": 15,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "bombardier",
+      "invader-state"
+    ]
+  },
+  {
+    "file": "12-invaders-wave1-armory+ballistics-t329.gif.png",
+    "mb": 1.485629,
+    "width": 1120,
+    "height": 630,
+    "lossy": 70,
+    "seconds": 10,
+    "mp4Mb": 0.476788,
+    "from": 329,
+    "wave": 1,
+    "hits": 20,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 21.8,
+    "cards": [
+      "armory",
+      "ballistics"
+    ]
+  },
+  {
+    "file": "13-invaders-wave1-barrier-state+collision-t360.gif.png",
+    "mb": 1.466725,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.515107,
+    "from": 360,
+    "wave": 1,
+    "hits": 15,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 21.8,
+    "cards": [
+      "barrier-state",
+      "collision"
+    ]
+  },
+  {
+    "file": "14-invaders-wave1-bombardier+invader-state-t374.gif.png",
+    "mb": 1.478694,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.473774,
+    "from": 374,
+    "wave": 1,
+    "hits": 13,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 18.1,
+    "cards": [
+      "bombardier",
+      "invader-state"
+    ]
+  },
+  {
+    "file": "15-invaders-wave1-score-state+game-state-t391.gif.png",
+    "mb": 1.114722,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.435591,
+    "from": 391,
+    "wave": 1,
+    "hits": 21,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "score-state",
+      "game-state"
+    ]
+  },
+  {
+    "file": "16-invaders-wave1-bombardier+invader-state-t413.gif.png",
+    "mb": 1.338137,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.472572,
+    "from": 413,
+    "wave": 1,
+    "hits": 12,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 19.4,
+    "cards": [
+      "bombardier",
+      "invader-state"
+    ]
+  },
+  {
+    "file": "17-invaders-wave1-barrier-state+collision-t430.gif.png",
+    "mb": 1.483435,
+    "width": 1120,
+    "height": 630,
+    "lossy": 0,
+    "seconds": 10,
+    "mp4Mb": 0.472667,
+    "from": 430,
+    "wave": 1,
+    "hits": 14,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "barrier-state",
+      "collision"
+    ]
+  },
+  {
+    "file": "18-invaders-wave1-autopilot+player-state-t449.gif.png",
+    "mb": 1.393135,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.513426,
+    "from": 449,
+    "wave": 1,
+    "hits": 15,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "autopilot",
+      "player-state"
+    ]
+  },
+  {
+    "file": "19-invaders-wave1-march-clock+keyboard-t503.gif.png",
+    "mb": 1.391591,
+    "width": 1120,
+    "height": 630,
+    "lossy": 20,
+    "seconds": 10,
+    "mp4Mb": 0.402529,
+    "from": 503,
+    "wave": 1,
+    "hits": 12,
+    "lost": 2,
+    "cleared": 0,
+    "rating": 19.4,
+    "cards": [
+      "march-clock",
+      "keyboard"
+    ]
+  },
+  {
+    "file": "20-invaders-wave1-armory+ballistics-t523.gif.png",
+    "mb": 1.45424,
+    "width": 1120,
+    "height": 630,
+    "lossy": 40,
+    "seconds": 10,
+    "mp4Mb": 0.494469,
+    "from": 523,
+    "wave": 1,
+    "hits": 16,
+    "lost": 1,
+    "cleared": 0,
+    "rating": 19.3,
+    "cards": [
+      "armory",
+      "ballistics"
+    ]
+  }
+]
